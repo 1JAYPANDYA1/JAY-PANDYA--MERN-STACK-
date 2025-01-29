@@ -1,7 +1,3 @@
-# Project Setup Instructions
-
-This project consists of a client (frontend) and server (backend) application. Follow the instructions below to set up and run both parts of the application.
-
 ## Client Setup
 
 To set up and run the client application:
@@ -39,9 +35,3 @@ npm i
 ```bash
 npm start
 ```
-
-## Additional Information
-
-- Make sure you have Node.js and npm installed on your system
-- The client and backend should be running simultaneously for the application to work properly
-- Check the respective package.json files for additional scripts and commands
